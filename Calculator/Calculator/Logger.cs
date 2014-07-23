@@ -8,5 +8,9 @@ namespace Calculator
 {
     class Logger
     {
+        public void LogFile(string result)
+        {
+
+        }
     }
 }
