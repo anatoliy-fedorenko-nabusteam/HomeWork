@@ -17,5 +17,10 @@ namespace Calculator
         {
             return a - b;
         }
+
+        public int Div(int a, int b)
+        {
+            return a/b;
+        }
     }
 }
